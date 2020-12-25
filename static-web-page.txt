@@ -1,4 +1,1 @@
-<center>
-
-<h1> Secret value is 8032157 </h1>
-</center>
+Secret value is 8032157 
